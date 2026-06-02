@@ -1,0 +1,5 @@
+Señalazo es un videojuego multijugador inspirado en la lotería mexicana, diseñado para fomentar el aprendizaje del Lenguaje de Señas Mexicano de una forma interactiva, accesible y divertida. El proyecto combina tradición cultural con tecnología, ya que los jugadores no solo identifican cartas, sino que realizan señas del abecedario mediante un guante con sensores de flexión, movimiento y conexión Bluetooth.
+
+El sistema detecta las señas realizadas por el usuario en tiempo real y las integra dentro del videojuego desarrollado en Unity. Además, busca apoyar la inclusión de personas sordas o con hipoacusia, promoviendo la empatía, la comunicación y la concientización social. Señalazo funciona como una herramienta educativa y de entretenimiento que permite aprender señas mientras se juega, reduciendo barreras de comunicación y fortaleciendo el respeto hacia la diversidad.
+
+En conjunto, el proyecto representa una propuesta tecnológica con impacto social, al unir hardware, software, inteligencia artificial y diseño accesible para crear una experiencia innovadora enfocada en la inclusión.
